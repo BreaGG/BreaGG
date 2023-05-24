@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # 💫 About Me:
 - 🔭 I’m currently working on a multi cross-platform app development studies<br>- 🌱 I’m currently learning java, php, html, python...<br>
 
