@@ -1,8 +1,3 @@
-
-# 💫 About Me:
-- 🔭 I’m currently working on a web app development studies<br>
-- 🌱 I’m currently learning java, php, html, python, javascript...
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrobrea) 
 
 # 💻 Tech Stack:
